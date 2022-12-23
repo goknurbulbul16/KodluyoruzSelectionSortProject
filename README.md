@@ -63,3 +63,15 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına gi
 
 **5. Adım :**
 [ 2 ,3 ,4 , 5 , **7** ,9 ,8 ,15 ,6]  ............... Adımlar böyle devam eder. Dizi sıralı bir hale gelene kadar.
+
+----------------------------------------------------------
+----------------------------------------------------------
+
+
+[Kodluyoruz](https://kodluyoruz.org) Veri Yapıları ve Algoritma Eğitimi Kapsamında Verilen 1. Ödev
+
+![Kodluyoruz](/img/kodluyoruz.png)
+
+
+# LICENSE
+[MIT](https://choosealicense.com/licenses/mit/)
